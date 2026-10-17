@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-17-9c2ad756-a685-46b2-a603-b9624ac3bb43.png" width="155" alt="bina"></p> 
+  <img src="https://cdn.phototourl.com/member/2026-10-17-9c2ad756-a685-46b2-a603-b9624ac3bb43.png" width="250" alt="bina"></p> 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rkyurfddptcurlliwkqwil5xt4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
