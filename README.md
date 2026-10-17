@@ -7,3 +7,7 @@
 <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-10-17-10aeeb5c-6f21-42c4-9ebe-f879666e8cc6.gif" width="500" alt="gif">
 </p>
+
+<p align="center">
+  <img src="https://cdn.phototourl.com/member/2026-10-17-d76fdd4a-a9e2-41d6-9f93-daa5fc6ea95f.gif" width="150" alt="gif">
+</p>
