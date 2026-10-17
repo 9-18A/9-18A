@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-17-d76fdd4a-a9e2-41d6-9f93-daa5fc6ea95f.gif" width="150" alt="gif">
+  <img src="https://cdn.phototourl.com/member/2026-10-17-d76fdd4a-a9e2-41d6-9f93-daa5fc6ea95f.gif" width="45" alt="gif">
 </p>
