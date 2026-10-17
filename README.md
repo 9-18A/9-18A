@@ -2,13 +2,8 @@
   <img src="https://cdn.phototourl.com/member/2026-10-17-10aeeb5c-6f21-42c4-9ebe-f879666e8cc6.gif" width="500" alt="gif">
 </p>
 
-<table style="border: 2px solid #E1A97D; border-radius: 8px;">
-  <tr>
-    <td width="30%" style="padding: 15px; border-right: 2px solid #E1A97D;">
-      <img width="" height="" alt="???" src="https://cdn.phototourl.com/member/2026-10-17-9c2ad756-a685-46b2-a603-b9624ac3bb43.png" />
-      <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=dormi+cara+columbula;o+columbula+mea;splendeat+fenestra;adsint+somnia+flora)](https://git.io/typing-svg)
+| <br> <img src="https://cdn.phototourl.com/member/2026-10-17-9c2ad756-a685-46b2-a603-b9624ac3bb43.png" width="300" alt="photo"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=dormi+cara+columbula;o+columbula+mea;splendeat+fenestra;adsint+somnia+flora)](https://git.io/typing-svg) |
+| :--- |
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rkyurfddptcurlliwkqwil5xt4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
