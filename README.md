@@ -1,3 +1,5 @@
+![](https://cdn.phototourl.com/member/2026-10-18-2809b0ab-ae73-4202-b94a-fc2b443587c3.gif)
+
 <p align="center">
   <img src="https://cdn.phototourl.com/member/2026-10-17-10aeeb5c-6f21-42c4-9ebe-f879666e8cc6.gif" width="500" alt="gif">
 </p>
