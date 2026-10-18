@@ -8,7 +8,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rkyurfddptcurlliwkqwil5xt4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/member/2026-10-18-2809b0ab-ae73-4202-b94a-fc2b443587c3.gif" width="200" alt="gif">
+  <img src="https://cdn.phototourl.com/member/2026-10-18-2809b0ab-ae73-4202-b94a-fc2b443587c3.gif" width="300" alt="gif">
 </p>
 
 <p align="center">
