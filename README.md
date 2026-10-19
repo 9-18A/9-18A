@@ -1,3 +1,4 @@
+${\textsf{\color{#BDC0C7}⠀⠀⠀⠀𝘀𝗵ᥱ⠀⠀/⠀⠀ 𝘁𝗵ᥱy⠀⠀ ⠀  ૮(ʃƪ´ ˘ )ྀིა}}$
 
 ![](https://cdn.phototourl.com/member/2026-10-19-c4b47ef5-f03f-497d-810a-f587f0b0c92e.png)
 
